@@ -30,7 +30,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Installation:
-npm i
+Clone the repo, run npm i (check package lock for needed dependencies if any problems arise).
 
 ## Usage:
 The simplest way to use the project is to head to the deployed heroku app! Otherwise, clone the repo and install the dependencies, then node server.js
